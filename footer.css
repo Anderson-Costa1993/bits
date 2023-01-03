@@ -1,0 +1,37 @@
+
+.f-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #2e2f31;
+
+}
+
+.itens-listfooter {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-items: center;
+    padding: 0;
+    gap: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 0.9em;
+    color: white;
+    margin: 2em 1em;
+}
+
+.text-footer  {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 0.7em;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.item-footer a {
+    text-decoration: none;
+    color: white;
+}

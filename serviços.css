@@ -1,0 +1,67 @@
+.serviços {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+.serviços a {
+    text-decoration: none;
+}
+
+.titutlo-serviços {
+    margin: 2.5em 0 2em 0;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #3C4858;
+}
+
+.img-consultor01 {
+    width: 15%;
+}
+
+.info-titulo {
+    margin: 2em 1.4em 0 1.4em;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #3c4858;
+}
+
+.descrição-serviços {
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    color: #999;
+    margin: 2em 1.5em 4em 1.5em;
+    line-height: 1.5;
+}
+
+.quemsomos {
+    margin: 4em 0 0 0;
+    font-size: 1.5em;
+}
+.pquemsomos {
+    font-size: 1.2em;
+    font-weight: 300;
+    margin-top: 1em;
+}
+
+.img-founder {
+    width: 25%;
+    border-radius: 5px;
+}
+
+.fundador {
+    margin: 1em 0;
+    font-size: 1.1em;
+}
+
+
+.fundador {
+    margin-top: 0px;
+}
+
+.status-founder {
+    font-size: 0.8em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #3C4858;
+    text-transform: uppercase;
+}

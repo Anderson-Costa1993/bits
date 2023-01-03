@@ -1,0 +1,29 @@
+
+.parceiros-betta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.caixa-imgparc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    justify-items: center;
+    margin: 3em 1.5em;
+}
+
+.titulo-parcerios {
+    margin: 5em 1.4em 0 1.4em;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #3c4858;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.img-parceiros {
+    width: 30%;
+}
+
