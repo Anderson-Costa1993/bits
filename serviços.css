@@ -8,7 +8,7 @@
 }
 
 .titutlo-serviços {
-    margin: 2.5em 0 2em 0;
+    margin: 5em 0 2em 0;
     font-size: 1.5em;
     font-weight: 700;
     color: #3C4858;
@@ -34,7 +34,7 @@
 }
 
 .quemsomos {
-    margin: 4em 0 0 0;
+    margin: 5em 0 0 0;
     font-size: 1.5em;
 }
 .pquemsomos {
@@ -64,4 +64,5 @@
     font-weight: 400;
     color: #3C4858;
     text-transform: uppercase;
+    margin-bottom: 3em;
 }

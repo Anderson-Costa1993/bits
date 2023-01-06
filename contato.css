@@ -37,7 +37,6 @@
     width: 95%;
 }
 
-
 .caixa-contato {
     width: 92%;
     height: 1080px;
@@ -67,6 +66,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 1.6em;
     font-weight: 500;
+    color:#f27a1f;
 }
 
 .form-contato {
@@ -92,7 +92,7 @@
 }
 
 .termos-privacidade {
-    color: #3c4858;
+    color: #3c4858; 
     font-size: 0.9em;
     font-family: 'Montserrat', sans-serif;
 }
