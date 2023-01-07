@@ -5,34 +5,38 @@ body {
     color: #3C4858;
 }
 
-.img-fundoconsLGPD {
-    background-image: url(./img/conslgpd2.jpg);
-    background-position: center bottom;
-    background-size: 100%;
-    height: 250px;
+.img-consCetificação {
+    background-image: url(./img/consultcerficiação.jpg);
+    background-position: top;
+    background-size: 100% 100%;
+    height: 270px;
     background-repeat: no-repeat;
 }
 
-.title-lgpd {
+.title-consCetificação {
     width: 60%;
-    height: 20px;
+    height: 35px;
     background: #f27a1f;
     color: white;
     margin: 0 auto; 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 1em 0;
+    padding: 0.5em 0;
     border-radius:  0 0 5px 5px;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-.apresentação-lgpd, .list-lgpd {
-    margin: 2em 1em 2em 1em;
+.apresentação-consuCertificação, .list-consuCertificação {
+    margin: 2em 1em 1.5em 1em;
     line-height: 1.618;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 0;
-
+}
+.texto-itemCertificação {
+    font-size: 16px;
+    color: #f27a1f;
+    margin: 0;
 }
 
 .separador-rodape {

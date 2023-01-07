@@ -5,17 +5,17 @@ body {
     color: #3C4858;
 }
 
-.img-fundoconsLGPD {
-    background-image: url(./img/conslgpd2.jpg);
-    background-position: center bottom;
-    background-size: 100%;
-    height: 250px;
+.img-A-vulnerabilidade {
+    background-image: url(./img/fundo-vulnerabilidade.jpg);
+    background-position: top;
+    background-size: 100% 100%;
+    height: 270px;
     background-repeat: no-repeat;
 }
 
-.title-lgpd {
+.title-A-vulnerabilidade {
     width: 60%;
-    height: 20px;
+    height: 35px;
     background: #f27a1f;
     color: white;
     margin: 0 auto; 
@@ -26,13 +26,12 @@ body {
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-.apresentação-lgpd, .list-lgpd {
-    margin: 2em 1em 2em 1em;
+.apresentação-A-vulnerabilidade {
+    margin: 2em 1em 1.5em 1em;
     line-height: 1.618;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 0;
-
 }
 
 .separador-rodape {

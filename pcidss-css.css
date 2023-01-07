@@ -5,15 +5,15 @@ body {
     color: #3C4858;
 }
 
-.img-fundoconsLGPD {
-    background-image: url(./img/conslgpd2.jpg);
-    background-position: center bottom;
-    background-size: 100%;
-    height: 250px;
+.img-pcidss {
+    background-image: url(./img/fundopci-dss.jpg);
+    background-position: top;
+    background-size: 100% 100%;
+    height: 270px;
     background-repeat: no-repeat;
 }
 
-.title-lgpd {
+.title-pcidss {
     width: 60%;
     height: 20px;
     background: #f27a1f;
@@ -26,7 +26,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-.apresentação-lgpd, .list-lgpd {
+.apresentação-pcidss, .list-pcidss {
     margin: 2em 1em 2em 1em;
     line-height: 1.618;
     font-size: 16px;
